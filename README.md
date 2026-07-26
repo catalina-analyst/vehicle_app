@@ -1,2 +1,4 @@
 # vehicle_app
-Aplicación web que compara el rendimiento de distintas marcas de vehículos.
+
+Este proyecto es una aplicación web desarrollada con Streamlit que permite explorar datos de anuncios de vehículos usados.  
+La app incluye botones interactivos para generar histogramas y gráficos de dispersión utilizando Plotly Express, facilitando el análisis del kilometraje y los precios.
